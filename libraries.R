@@ -31,3 +31,9 @@ library(extrafont)
 
 install.packages("rvest")
 library(rvest)
+
+install.packages("shiny")
+library(shiny)
+
+install.packages("shinydashboard")
+library(shinydashboard)
